@@ -1,0 +1,17 @@
+{
+    "slug":"presencial",
+    "description": "Educacion presencial",
+    "title": "otros logros academicos",
+    "items":[
+        {
+            "name": "TOEFL",
+            "degree": "TOEFFL ITP",
+            "score": "640"
+        },
+        {
+            "name": "TOEFL",
+            "degree": "TOEFFL ITP",
+            "score": "640"
+        }
+    ]
+}
